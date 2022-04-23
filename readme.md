@@ -1,3 +1,5 @@
+Link para o tutorial:
+https://www.youtube.com/watch?v=DDm0M_rZLJo
 # Pacotes
 
 ## Rotas
